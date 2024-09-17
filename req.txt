@@ -1,0 +1,5 @@
+plyer
+pyqt5
+pyinstaller
+cx_Freeze
+pygame
