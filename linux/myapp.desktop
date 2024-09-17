@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Medo_tahrim
+Comment=This is a application for freedom!
+Exec=/opt/myapp/main.py
+Icon=/opt/myapp/image/icon.jpg
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+
